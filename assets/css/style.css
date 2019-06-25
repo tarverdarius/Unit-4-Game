@@ -1,0 +1,58 @@
+
+heading {
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 2.75em;
+    text-align: center;
+    
+}
+h1 {
+  padding: 10px;
+  font-family: 'Noto Sans', sans-serif;
+  text-align: left;
+  font-size: 1.5em;
+  
+}
+
+p {font-family: 'Noto Sans', sans-serif;
+  
+
+}
+
+ul {font-family: 'Noto Sans', sans-serif;
+padding: 10px;
+}
+
+h2 {
+  padding: 10px;
+  font-family: 'Noto Sans', sans-serif;
+  text: bold;
+}
+ 
+image borders
+body {
+  border: 5px;
+  border-color: gray;   
+  padding: 20px;
+  }
+
+ 
+img {
+    border: 5px solid #ddd;
+    border-radius: 8px;
+    padding: 5px;
+    width: 20%;
+}
+
+img:hover {
+    box-shadow: 0 0 10px 5px rgba(6, 186, 0, 0.5);
+}
+
+  body {
+    background: linear-gradient(to right, rgb(68, 0, 255) , rgb(124, 124, 112));
+  }
+
+
+footer {
+  background-color: rgb(184, 184, 184);
+  padding: 5px;
+}
